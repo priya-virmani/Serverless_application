@@ -5,6 +5,7 @@ phases:
       python: 3.8
     commands:
       - echo "Installing dependecies..."
+      - pip install -r requirements.txt -t lib
   build:
     commands:
       - echo "Zipping deployment package..."
