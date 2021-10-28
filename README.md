@@ -1,7 +1,7 @@
 # Serverless_application
 This repo contains the source code for AWS lambda function i.e. **s3_json_dynamodb_lambda**.
 
-**Language used : Python
+**Language used : Python**
 
 **AWS Services used : API Gateway, S3, Lambda, DynamoDB and CodeBuild**
 
